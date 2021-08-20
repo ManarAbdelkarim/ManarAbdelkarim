@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manar Abdelkarim</h1>
 <h3 align="center">A passionate Full-Stack developer from Jordan</h3>
+<img style="display: block;margin-left: auto;margin-right: auto;width: 50%;" src="https://static.fandomspot.com/images/05/6906/04-sakura-futaba-persona-5-anime.jpg" />
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manarabdelkarim" alt="manarabdelkarim" /></a> </p>
 
