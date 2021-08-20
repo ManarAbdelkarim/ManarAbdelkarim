@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[Deploy Django Project on Heroku Using Heroku CLI](https://dev.to/manarabdelkarim/deploy-django-project-on-heroku-using-heroku-cli-460h)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
