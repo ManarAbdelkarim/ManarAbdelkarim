@@ -20,6 +20,8 @@
 - [Deploy Django Project on Heroku Using Heroku CLI](https://dev.to/manarabdelkarim/deploy-django-project-on-heroku-using-heroku-cli-460h)
 
 - [A Bridge From Regular Function to Arrow Function](https://dev.to/manarabdelkarim/types-of-javascript-functions-a-bridge-from-regular-function-to-arrow-function-2bjc)
+
+- [Why Do Developers Choose Mobile First Approach](https://dev.to/manarabdelkarim/why-do-developers-choose-mobile-first-approach-4ckn)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
