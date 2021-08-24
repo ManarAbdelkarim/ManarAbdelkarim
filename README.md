@@ -15,8 +15,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-[Deploy Django Project on Heroku Using Heroku CLI](https://dev.to/manarabdelkarim/deploy-django-project-on-heroku-using-heroku-cli-460h)
-[Types of JavaScript Functions: A Bridge From Regular Function to Arrow Function](https://dev.to/manarabdelkarim/types-of-javascript-functions-a-bridge-from-regular-function-to-arrow-function-2bjc)
+- [Deploy Django Project on Heroku Using Heroku CLI](https://dev.to/manarabdelkarim/deploy-django-project-on-heroku-using-heroku-cli-460h)
+
+- [Types of JavaScript Functions: A Bridge From Regular Function to Arrow Function](https://dev.to/manarabdelkarim/types-of-javascript-functions-a-bridge-from-regular-function-to-arrow-function-2bjc)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
