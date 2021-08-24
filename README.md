@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manarabdelkarim" alt="manarabdelkarim" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 👩🏻‍💻 I am currently working on **fresHunt** project
+
+- 🌱 I’m currently learning **React Native**
 
 - 📝 I regularly write articles on [https://dev.to/manarabdelkarim](https://dev.to/manarabdelkarim)
 
