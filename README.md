@@ -18,6 +18,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Why Do Developers Choose Mobile First Approach](https://dev.to/manarabdelkarim/why-do-developers-choose-mobile-first-approach-4ckn)
+- [Reasons To Use Recursion and How It Works](https://dev.to/manarabdelkarim/why-and-how-to-solve-iterative-problems-recursively-the-smart-coding-4nj2)
 
 - [Deploy Django Project on Heroku Using Heroku CLI](https://dev.to/manarabdelkarim/deploy-django-project-on-heroku-using-heroku-cli-460h)
 
