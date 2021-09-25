@@ -7,7 +7,7 @@
 
 - 👩🏻‍💻 I am currently working on **fresHunt** project
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flask**
 
 - 📝 I regularly write articles on [https://dev.to/manarabdelkarim](https://dev.to/manarabdelkarim)
 
