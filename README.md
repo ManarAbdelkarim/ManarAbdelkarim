@@ -7,7 +7,7 @@
 
 - 👩🏻‍💻 I am currently working at **Liwwa** 
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📝 I regularly write articles on [https://dev.to/manarabdelkarim](https://dev.to/manarabdelkarim)
 
